@@ -363,9 +363,5 @@
         <!-- Vungle -->
         <framework custom="true" src="libs/iOS/Adapters/APDVungleAdapter.embeddedframework/VungleSDK.framework"/>
         <source-file src="libs/iOS/Adapters/APDVungleAdapter.embeddedframework/libAPDVungleAdapter.a" framework="true"/>
-        <!-- Yandex -->
-        <framework custom="true" src="libs/iOS/Adapters/APDYandexAdapter.embeddedframework/YandexMobileMetrica.framework"/>
-        <framework custom="true" src="libs/iOS/Adapters/APDYandexAdapter.embeddedframework/YandexMobileAds.framework"/>
-        <source-file src="libs/iOS/Adapters/APDYandexAdapter.embeddedframework/libAPDYandexAdapter.a" framework="true"/>
       </platform>
 </plugin>
